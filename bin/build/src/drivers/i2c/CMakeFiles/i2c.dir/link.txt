@@ -1,0 +1,2 @@
+C:/msys64/usr/bin/ar.exe qc libi2c.a CMakeFiles/i2c.dir/i2c.cpp.obj
+C:/msys64/usr/bin/ranlib.exe libi2c.a

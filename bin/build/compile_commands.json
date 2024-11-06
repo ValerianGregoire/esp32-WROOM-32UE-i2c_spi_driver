@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/valer/OneDrive - IPSA/Annexe/GitHub/esp32-WROOM-32UE-i2c_spi_driver/bin/build/src/drivers/i2c",
+  "command": "C:/msys64/usr/bin/g++.exe  @CMakeFiles/i2c.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/i2c.dir/i2c.cpp.obj -c \"C:/Users/valer/OneDrive - IPSA/Annexe/GitHub/esp32-WROOM-32UE-i2c_spi_driver/bin/src/drivers/i2c/i2c.cpp\"",
+  "file": "C:/Users/valer/OneDrive - IPSA/Annexe/GitHub/esp32-WROOM-32UE-i2c_spi_driver/bin/src/drivers/i2c/i2c.cpp",
+  "output": "src/drivers/i2c/CMakeFiles/i2c.dir/i2c.cpp.obj"
+}
+]

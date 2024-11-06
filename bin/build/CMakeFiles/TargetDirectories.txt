@@ -1,0 +1,7 @@
+C:/Users/valer/OneDrive - IPSA/Annexe/GitHub/esp32-WROOM-32UE-i2c_spi_driver/bin/build/CMakeFiles/edit_cache.dir
+C:/Users/valer/OneDrive - IPSA/Annexe/GitHub/esp32-WROOM-32UE-i2c_spi_driver/bin/build/CMakeFiles/rebuild_cache.dir
+C:/Users/valer/OneDrive - IPSA/Annexe/GitHub/esp32-WROOM-32UE-i2c_spi_driver/bin/build/src/drivers/i2c/CMakeFiles/i2c.dir
+C:/Users/valer/OneDrive - IPSA/Annexe/GitHub/esp32-WROOM-32UE-i2c_spi_driver/bin/build/src/drivers/i2c/CMakeFiles/edit_cache.dir
+C:/Users/valer/OneDrive - IPSA/Annexe/GitHub/esp32-WROOM-32UE-i2c_spi_driver/bin/build/src/drivers/i2c/CMakeFiles/rebuild_cache.dir
+C:/Users/valer/OneDrive - IPSA/Annexe/GitHub/esp32-WROOM-32UE-i2c_spi_driver/bin/build/src/drivers/spi/CMakeFiles/edit_cache.dir
+C:/Users/valer/OneDrive - IPSA/Annexe/GitHub/esp32-WROOM-32UE-i2c_spi_driver/bin/build/src/drivers/spi/CMakeFiles/rebuild_cache.dir

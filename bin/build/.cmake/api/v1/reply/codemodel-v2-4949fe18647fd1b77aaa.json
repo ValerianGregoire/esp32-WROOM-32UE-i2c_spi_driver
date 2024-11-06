@@ -1,0 +1,89 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src/drivers/i2c",
+					"jsonFile" : "directory-src.drivers.i2c-Debug-7ccc2ac5344f8594f237.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/drivers/i2c",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "src/drivers/spi",
+					"jsonFile" : "directory-src.drivers.spi-Debug-5acccf6e4b0c63c9cd28.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src/drivers/spi"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "bin",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "i2c::@ae48ef6541916abd2ca7",
+					"jsonFile" : "target-i2c-Debug-16de7b83799658e88e2a.json",
+					"name" : "i2c",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/valer/OneDrive - IPSA/Annexe/GitHub/esp32-WROOM-32UE-i2c_spi_driver/bin/build",
+		"source" : "C:/Users/valer/OneDrive - IPSA/Annexe/GitHub/esp32-WROOM-32UE-i2c_spi_driver/bin"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
